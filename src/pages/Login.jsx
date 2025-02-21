@@ -12,7 +12,8 @@ const LoginForm = styled.form`
   font-size:30px;
   font-weight:bold;
   margin:100px 0 500px 0;
-
+  color:black;
+  font-family: "Amazon Ember", Arial, sans-serif;
 `
 const LoginInput = styled.input`
   display:inline-block;
